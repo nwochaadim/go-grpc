@@ -4,8 +4,8 @@ import (
 	"log"
 	"net"
 
-	"google.golang.org/grpc"
 	pb "github.com/nwochaadim/go-grpc/proto"
+	"google.golang.org/grpc"
 )
 
 const (
